@@ -1,0 +1,18 @@
+# Binaries
+/dayzer0-gin-starter
+*.exe
+*.out
+
+# Test / coverage
+*.test
+coverage.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# Env & editor
+.env
+.DS_Store
+.idea/
+.vscode/
